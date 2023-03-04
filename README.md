@@ -7,5 +7,5 @@ The founder manual for startups (from 2023 and onwards).
 
 ```
 230304
-- For a 
+- Make reasons not to invest in the startup - try to convince what steps to take to overcome them.
 ```
