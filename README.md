@@ -8,7 +8,7 @@ The founder manual for startups (from 2023 and onwards).
 
 ```
 230304
-- Make reasons not to invest in the startup - try to convince what steps to take to overcome them. ()
-- Not put more than 4 people on the slide and compress their introductions - people would not read them. ()
+- Make reasons not to invest in the startup - try to convince what steps to take to overcome them. (20VC)
+- Not put more than 4 people on the slide and compress their introductions - people would not read them. (20VC)
 - Do 2 versions of IR, a short version for the public & general interest, and an exhaustive version for individual interested investors. (Me)
 ```
