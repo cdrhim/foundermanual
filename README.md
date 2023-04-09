@@ -11,9 +11,14 @@ The founder manual for startups (from 2023 and onwards).
 - Focus on the value first. BMs can be helped made by investors.
 - Focus on either B2B or B2C first. Do not go with both markets at the same time. They are totally different segments, which require more time invested in total.
 
+**Work Ethics**
+- Networking is king. Update your progress to potentially essential nodes in quarterly or half yearly intervals.
+
 ---
 
 ```
+230409
+- Networking is king. Update your progress to potentially essential nodes in quarterly or half yearly intervals. (
 230306
 - Be technical and give the numbers on the slides for investors to just understand what you are saying. (Me)
 230305
