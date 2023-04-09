@@ -18,7 +18,7 @@ The founder manual for startups (from 2023 and onwards).
 
 ```
 230409
-- Networking is king. Update your progress to potentially essential nodes in quarterly or half yearly intervals. (Amazon Bahng Gus)
+- Networking is king. Update your progress to potentially essential nodes in quarterly or half yearly intervals. (Amazon Gus Bahng)
 230306
 - Be technical and give the numbers on the slides for investors to just understand what you are saying. (Me)
 230305
