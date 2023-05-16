@@ -14,7 +14,7 @@ The founder manual for startups (from 2023 and onwards).
 **Work Ethics**
 - Networking is king. Update your progress to potentially essential nodes in quarterly or half yearly intervals.
 
----
+------
 
 ```
 230409
