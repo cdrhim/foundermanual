@@ -2,6 +2,7 @@
 The founder manual for startups (from 2023 and onwards).
 
 **IR**
+- Use PNG as well as GIFs.
 - Be technical and give the numbers on the slides for investors to just understand what you are saying.
 - Make reasons not to invest in the startup - try to convince what steps to take to overcome them.
 - Not put more than 4 people on the slide and compress their introductions - people would not read them.
@@ -17,6 +18,8 @@ The founder manual for startups (from 2023 and onwards).
 ------
 
 ```
+230518
+- - Use PNG as well as GIFs. (Me)
 230409
 - Networking is king. Update your progress to potentially essential nodes in quarterly or half yearly intervals. (Amazon Gus Bahng)
 230306
